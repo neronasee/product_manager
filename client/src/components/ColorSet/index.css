@@ -1,0 +1,12 @@
+.color-list {
+  padding: 0;
+}
+
+.color-circle {
+  width: 15px;
+  height: 15px;
+  border-radius: 50%;
+  list-style: none;
+  display: inline-block;
+  margin: 0 2px;
+}
