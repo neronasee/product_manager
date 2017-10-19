@@ -1,3 +1,3 @@
 ## Product manager
 
-[https://github.com/neronasee/product_manager](https://github.com/neronasee/product_manager)
+[Visit demo](https://product-manager-test.herokuapp.com/)
